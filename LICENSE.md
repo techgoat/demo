@@ -1,0 +1,3 @@
+# Demo file LICENSE.md
+
+Legal mumbo jumbo on what is permitted and explicitly not included...
