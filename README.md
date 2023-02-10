@@ -2,6 +2,5 @@
 
 This is a simple README file
 
-# Header 2
+# Deterministic Eleasticity in a Matrix Optimized (DEMO)
 
-something irrelevant
